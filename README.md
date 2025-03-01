@@ -9,13 +9,17 @@ This Streamlit-based web application predicts the **optimal water requirement** 
 - 🤖 **Machine Learning Model**: Uses a pre-trained **Random Forest Regressor**.  
 - 📊 **Dynamic Predictions**: Get real-time predictions based on user input.  
 - 💡 **Optimization Suggestions**: Provides actionable insights for better water usage.  
-- 🎨 **Modern UI**: Built with **Streamlit**, featuring a sleek and responsive design.  
+- 🎨 **Modern UI**: Built with **Streamlit**, featuring a sleek and responsive design.
+
+
+## 🌍 Live Application  
+🔗 **Try it here:** [Optimal Water Requirement Predictor](https://huggingface.co/spaces/adityamanwatkar/optimal_water_usage_prediction) 
 
 ## 🛠️ Installation  
 ### **1️⃣ Clone the Repository**  
 ```sh
-git clone https://github.com/yourusername/your-repo.git
-cd your-repo
+git clone https://github.com/Aditya-Manwatkar/Optimal-Water-Requirement-Prediction-for-Agricultural-Farms.git
+cd Optimal-Water-Requirement-Prediction-for-Agricultural-Farms
 ```
 
 ### **2️⃣ Install Dependencies**  
@@ -48,7 +52,7 @@ streamlit run app.py
 4. The app provides **insights & optimization tips** based on user input.  
 
 ## 📸 Screenshots  
-![App Screenshot](https://your-image-url.com)
+![App Screenshot](Optimal-Water-Requirement-Prediction-for-Agricultural-Farms/image.png)
 
 ## 📌 Technologies Used  
 - **Python** 🐍  
@@ -58,7 +62,7 @@ streamlit run app.py
 - **Joblib** (for model persistence)  
 
 ## ✨ Author  
-👤 **LinkedIN**:[Aditya Manwatkar](https://www.linkedin.com/in/aditya-manwatkar/)**  
+👤 **LinkedIN**:[Aditya Manwatkar](https://www.linkedin.com/in/aditya-manwatkar/)
 🔗 **GitHub**: [Aditya-Manwatkar](https://github.com/Aditya-Manwatkar)  
 
 ## 📜 License  
