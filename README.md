@@ -52,7 +52,7 @@ streamlit run app.py
 4. The app provides **insights & optimization tips** based on user input.  
 
 ## 📸 Screenshots  
-![App Screenshot](Optimal-Water-Requirement-Prediction-for-Agricultural-Farms/image.png)
+![App Screenshot](image.png)
 
 ## 📌 Technologies Used  
 - **Python** 🐍  
