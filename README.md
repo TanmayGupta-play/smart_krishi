@@ -61,11 +61,7 @@ streamlit run app.py
 - **Pandas, NumPy** 📊  
 - **Joblib** (for model persistence)  
 
-## ✨ Author  
-👤 **LinkedIN**:[Aditya Manwatkar](https://www.linkedin.com/in/aditya-manwatkar/)
-🔗 **GitHub**: [Aditya-Manwatkar](https://github.com/Aditya-Manwatkar)  
 
-## 📜 License  
 This project is **open-source** and available under the **MIT License**.  
 
 ---
