@@ -18,7 +18,7 @@ This Streamlit-based web application predicts the **optimal water requirement** 
 ## 🛠️ Installation  
 ### **1️⃣ Clone the Repository**  
 ```sh
-git clone https://github.com/Aditya-Manwatkar/Optimal-Water-Requirement-Prediction-for-Agricultural-Farms.git
+git clone https://github.com/TanmayGupta-play/smart_krishi.git
 cd Optimal-Water-Requirement-Prediction-for-Agricultural-Farms
 ```
 
@@ -51,8 +51,6 @@ streamlit run app.py
 3. The **Random Forest Regressor** predicts the **optimal water requirement**.  
 4. The app provides **insights & optimization tips** based on user input.  
 
-## 📸 Screenshots  
-![App Screenshot](image.png)
 
 ## 📌 Technologies Used  
 - **Python** 🐍  
